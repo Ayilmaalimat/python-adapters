@@ -1,0 +1,12 @@
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+lxml==4.6.2
+MarkupSafe==1.1.1
+Pillow==8.1.0
+psycopg2-binary==2.8.6
+pytz==2020.5
+spyne==2.13.16
+suds-py3==1.4.4.1
+Werkzeug==1.0.1
